@@ -1,0 +1,12 @@
+#ignoring objective files,executable files and devc++ project files,json files and Visual Studio Code
+#Configuration folders
+*.o
+*.dev
+*.exe
+*.layout
+*.win
+*.json
+.vscode
+.vs
+*zip
+Technical Report/report.data.container
